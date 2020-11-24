@@ -6,3 +6,8 @@
 [Link Video Praktikum](https://drive.google.com/file/d/1KqaMIGo77OJnzdmV7JVks6vZKD79o74X/view)
 
 ### Materi
+
+__*AUTHENTICATION & SECURITY*__
+> Autentikasi pengguna adalah proses memvalidasi pengguna dengan beberapa kunci, *token*, atau kredensial lainnya. Jika pengguna memberikan kredensial yang benar maka proses otentikasi akan berhasil. Setelah otentikasi berhasil, pengguna akan diizinkan ke sistem sebagai pengguna yang diautentikasi.
+
+> Autentikasi digunakan untuk memastikan bahwa *user* yang mengakses adalah benar-benar *user* yang berhak.

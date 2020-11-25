@@ -8,7 +8,7 @@ echo "<h2>Login</h2>
         </tr>
         <tr>
             <td>Password</td>
-            <td> : <input name='passwd' type='text'</td>
+            <td> : <input name='passwd' type='password'</td>
         </tr>
         <tr>
             <td>Captcha<br><img src='captcha.php'/></td>
